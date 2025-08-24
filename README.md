@@ -1,5 +1,5 @@
  
- ![_LinkedIn Banner (2)](https://github.com/RajPakhurde/RajPakhurde/assets/101402353/3382ee32-f494-4fdb-a9f9-c218d9f5e08e)
+
 
 <h1 align="center">Hi 👋, I'm RAJ</h1>
 <h3 align="center">A passionate Software developer from India</h3>
