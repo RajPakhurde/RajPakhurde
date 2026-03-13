@@ -17,12 +17,12 @@ One of my key projects is an E-Car Reselling Platform, a full-stack marketplace 
 
 Another project I developed is AcademiaSuite, a desktop application built with React, Electron, Express, and SQLite to streamline exam cell operations. I also optimized database performance using indexing, reducing query time from 450ms to 35ms.
 
-My core technical skills include:
-• Java, JavaScript, SQL
-• Spring Boot, Spring MVC, Node.js, Express.js
-• React.js, Redux Toolkit, HTML, CSS, Bootstrap
-• MySQL, SQLite
-• Docker, Kubernetes, Git, Postman
+My core technical skills include:<br>
+• Java, JavaScript, SQL<br>
+• Spring Boot, Spring MVC, Node.js, Express.js<br>
+• React.js, Redux Toolkit, HTML, CSS, Bootstrap<br>
+• MySQL, SQLite<br>
+• Docker, Kubernetes, Git, Postman<br>
 
 I am currently looking for opportunities as a Software Developer where I can contribute to building scalable applications, learn from experienced engineers, and grow in a collaborative development environment.
 
