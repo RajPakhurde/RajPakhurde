@@ -9,18 +9,24 @@
 <br>
 <br>
 
-- 👋 Hello! I'm Raj Ramesh Pakhurde, a passionate B.E. Computer Engineering student in my 3rd year at GM Vedak Institution of Technology, affiliated with Mumbai University.
+I am a Software Developer with a strong foundation in full-stack development, specializing in Java, Spring Boot, React.js, and modern web technologies. I recently completed the PG-DAC program from CDAC Sunbeam, where I built real-world applications and strengthened my skills in backend development, REST APIs, and database optimization.
 
-- 🖥️ Currently, I am immersing myself in the dynamic world of Full Stack Development, specializing in MERN Stack. My journey extends beyond the classroom, as I'm actively engaged in a freelance project for a dental clinic, leveraging my skills 
-  to create innovative solutions.
+I enjoy building scalable and efficient software solutions that solve real problems. During my learning journey, I have developed full-stack applications using technologies like React.js, Node.js, Spring Boot, MySQL, and SQLite, and I also work with modern tools such as Docker and Kubernetes for containerization and deployment.
 
-- 🚀 As a tech enthusiast, I find joy in tackling challenges and transforming ideas into reality. My academic pursuits, combined with hands-on experience, have equipped me with a robust skill set.
+One of my key projects is an E-Car Reselling Platform, a full-stack marketplace that enables users to buy and sell vehicles online. I implemented JWT-based authentication, role-based access control, RESTful APIs, and a responsive React frontend with Redux for state management.
 
-- 💼 Beyond the code, I am proud to contribute my time as a volunteer at Swadesh Foundation. This enriching experience allows me to give back to the community and make a positive impact.
+Another project I developed is AcademiaSuite, a desktop application built with React, Electron, Express, and SQLite to streamline exam cell operations. I also optimized database performance using indexing, reducing query time from 450ms to 35ms.
 
-- 🌐 Let's connect and explore the intersections of technology, innovation, and community service. Open to opportunities, collaborations, and conversations!
+My core technical skills include:
+• Java, JavaScript, SQL
+• Spring Boot, Spring MVC, Node.js, Express.js
+• React.js, Redux Toolkit, HTML, CSS, Bootstrap
+• MySQL, SQLite
+• Docker, Kubernetes, Git, Postman
 
-#ComputerEngineering #FullStackDeveloper #MERNStack #Freelancer #TechEnthusiast #Volunteer
+I am currently looking for opportunities as a Software Developer where I can contribute to building scalable applications, learn from experienced engineers, and grow in a collaborative development environment.
+
+Always open to connecting with developers, recruiters, and tech enthusiasts.
 <br>
 <br>
 <br>
