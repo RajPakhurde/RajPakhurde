@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm RAJ</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="250" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+<!-- <img align="right" alt="Coding" width="250" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif"> -->
 
 <br>
 <br>
